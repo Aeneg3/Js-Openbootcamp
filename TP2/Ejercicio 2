@@ -1,0 +1,18 @@
+const nombre = "Agustin"
+const edad = 23
+const developer = true
+const dia = 4
+const mes = 9
+const anyo = 1999
+const libro = {
+    titulo: "ahora que somos felices",
+    autor: "alejandro wall",
+    fecha: 16-2-2023,
+    URL: "www.editorialplaneta.com.ar"
+}
+
+console.log(nombre)
+console.log(edad)
+console.log(developer)
+console.log(dia, mes, anyo)
+console.log(libro)
